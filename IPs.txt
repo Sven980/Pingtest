@@ -1,10 +1,3 @@
 ﻿Google DNS = 8.8.8.8
 Cloudflare DNS = 1.1.1.1
 The Wall EU PVE Chern |NO PVP|PVE ONLY|Quests|Missions|Ai| = 164.132.201.14
-Rearmed EU4 | Solo Duo Trio = 193.25.252.22
-KRYPTIC - #2 | Solo Duo Trio | High FPS = 64.40.9.198
-#1 [TDB] Vanilla+ 1PP| loot++ | stamina | PVP | WIPED 29.11. = 193.25.252.49
-#3 [TDB] Vanilla+ 1PP - Solo/Duo/Trio | PVP | WIPED 29.11 = 193.25.252.34
-The Lab EU2 | Solo/Duo/Trio | dayzthelab.com = 195.60.166.190
-The Project Two - Cherno | Solo Duo Trio = 64.40.9.161
-Test = 64.40.9.161
