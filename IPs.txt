@@ -2,4 +2,3 @@
 Cloudflare DNS = 1.1.1.1
 The Wall PVE/PVP Chern |Quests|KOTH|Missions|AirDrops|Ai| = 135.148.151.228
 The Project Two - Cherno | Solo Duo Trio = 64.40.9.161
-MOFOs Vanilla Chernarus Deathmatch - 1PP|discord.gg/cXU4rNGhMM = 162.55.163.149
